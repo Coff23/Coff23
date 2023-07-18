@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coff23)](https://github.com/Coff23/github-readme-stats)
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coff23&show_icons=true&theme=synthwave)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Coff23)](https://git.io/streak-stats)
 
 <!--
